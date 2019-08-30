@@ -1,4 +1,4 @@
-# Master Timer
+# Countdown Timer
 
 This is an exercise meant to be completed using a front-end framework of your choosing and state management of some kind. THe sample solution will be built out with React and Redux but there are a few other options listed below. 
 
