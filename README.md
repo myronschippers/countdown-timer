@@ -6,6 +6,8 @@ This is an exercise meant to be completed using a front-end framework of your ch
 
 We have an event where **Participants** are supposed to complete a task in isolation from one another but they are given a fixed amount of time in order to complete the task. Our **Event Coordinator** is supposed to monitor the **Participants** and ensure that they are not going over time. The **Participant** should also be able to see their individual countdown without seeing anyone elses. In the **Event Coordinator's** view they should have a timer value that they can set and then be able to kick off all of the **Participant's** countdown timer at the same time. There will be cases where the **Coordinator** will need to start an individual **Participant's** timer without the rest of the group.
 
+### Requirements
+
 **Master Timer Form:**
 - [ ] We need 3 inputs for hours, minutes, and seconds.
     * Each input should only allow whole numbers (integers) and should not allow a value less than 0
